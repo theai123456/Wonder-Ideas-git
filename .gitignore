@@ -1,0 +1,3 @@
+# 此时该文件将不再被git管理
+.env
+node_modules/
